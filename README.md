@@ -1,1 +1,1 @@
-# Pizza-Store-Sales-Analysis-Project
+This is SQL Project on Pizza Store Sales Analysis.
